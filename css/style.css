@@ -1,0 +1,23 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.photo{
+  width: 450px;
+  float: left;
+  padding:10px;
+  margin-top: 15px;
+  margin-left: 50px;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+.summary{
+  width: 600px;
+  float:left;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 55px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
